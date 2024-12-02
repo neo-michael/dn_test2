@@ -1,0 +1,21 @@
+{
+    "processor": {
+      "cores": 8,
+      "speed": ["3.6 GHz", "3.8 GHz"],
+      "socket": "LGA 1151",
+      "hasIntegratedGraphics": false
+    },
+    "memory": {
+      "size": "16 GB",
+      "is_ddr4": true,
+      "speed": 3200,
+      "supportedModes": ["dual-channel", "single-channel"]
+    },
+    "storage": {
+      "capacity": 1000,
+      "type": "SSD",
+      "has_cache": true,
+      "readSpeedMBps": [550, 575]
+    }
+  }
+  
