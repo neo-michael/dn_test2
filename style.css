@@ -23,3 +23,47 @@ img{
     background-color: orange;
     padding: 1cm;
 }
+
+.zad1 {
+    h1 {
+        text-align: center;
+    }
+
+    .zad1-p {
+        text-align: justify;
+        margin: 1cm;
+    }
+
+    .columns {
+        display: flex;
+        flex-direction: column;
+       
+
+        .column-1, .column-2 {
+            width: 100%;
+            margin: 0 1cm;
+        }
+      
+    }
+
+    a:hover {
+        color: green;
+    }
+
+    
+    @media (min-width: 640px) {
+                .columns {
+                    flex-direction: row;
+
+                    .column-1, .column-2 {
+                        width: 50%;
+                    }
+                }
+    }
+}
+
+.zad1-nav {
+    display: flex;
+    justify-content: end;
+    gap: 1cm;
+}
