@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer_hardware>
+    <processor>
+        <param core="8-core" />
+        <param speed="3.6 GHz" />
+        <param socket="LGA 1151" />
+        <param cache ="16 MB" />
+    </processor>
+    
+    <memory>
+        <param size="16 GB" />
+        <param type="DDR4" />
+        <param speed="3200 MHz" />
+        <param voltage="1.35V" />
+    </memory>
+    
+    <storage>
+        <param capacity="1 TB" />
+        <param type="SSD" />
+        <param interface="SATA III" />
+        <param read_speed="550 MB/s" />
+    </storage>
+</computer_hardware>

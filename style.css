@@ -1,0 +1,13 @@
+.mm_title {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+.mm_cell, .mm_header_cell {
+    border: 1px solid;
+}
+
+.mm_header_cell {
+    background-color: black;
+    color: white;
+}
