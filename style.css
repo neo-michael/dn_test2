@@ -27,15 +27,12 @@ img{
 .zad1 {
     h1 {
         text-align: center;
-    }
-
-    .link {
-        margin-left: 1cm;
+        color: green;
     }
 
     .zad1-p {
         text-align: justify;
-        margin: 1cm;
+        margin: 1cm 0;
     }
 
     .columns {
@@ -45,7 +42,6 @@ img{
 
         .column-1, .column-2 {
             width: 100%;
-            margin: 0 1cm;
         }
       
     }
@@ -68,7 +64,7 @@ img{
 
 .zad1-nav {
     display: flex;
-    justify-content: end;
+    justify-content: center;
     gap: 1cm;
 }
 .zad5 {
