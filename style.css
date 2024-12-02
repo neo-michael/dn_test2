@@ -1,7 +1,7 @@
 img{
     height: 200px;
     width: 200px;
-    border: 1px solid black;
+    border: 1cm solid black;
 }
 .mm_title {
     text-align: center;
@@ -33,6 +33,7 @@ img{
     .zad1-p {
         text-align: justify;
         margin: 1cm 0;
+        font-style: italic;
     }
 
     .columns {
