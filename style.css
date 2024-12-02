@@ -1,0 +1,29 @@
+.zad1 {
+    h1 {
+        text-align: center;
+    }
+
+    .columns {
+        display: flex;
+        flex-direction: column;
+        .column-1, .column-2 {
+            width: 100%;
+        }
+      
+    }
+
+    a:hover {
+        color: green;
+    }
+
+    
+    @media (min-width: 640px) {
+                .columns {
+                    flex-direction: row;
+
+                    .column-1, .column-2 {
+                        width: 50%;
+                    }
+                }
+    }
+}
