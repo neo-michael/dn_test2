@@ -1,0 +1,15 @@
+.zad5 {
+    h1 {
+        margin-bottom: 1cm;
+    }
+
+    .authors {
+        border: 1px solid black;
+        width: fit-content;
+        padding: 1cm;
+        list-style-type: upper-alpha;
+        font-weight: bold;
+    }
+
+
+}
