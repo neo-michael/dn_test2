@@ -3,3 +3,10 @@ img{
     width: 200px;
     border: 1px solid black;
 }
+.pol{
+    background-color: blue;
+}
+.button{
+    background-color: orange;
+    padding: 1cm;
+}
