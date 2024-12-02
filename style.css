@@ -16,3 +16,10 @@ img{
     background-color: black;
     color: white;
 }
+.pol{
+    background-color: blue;
+}
+.button{
+    background-color: orange;
+    padding: 1cm;
+}
